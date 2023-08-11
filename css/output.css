@@ -1055,6 +1055,14 @@ html {
   background-image: url('../img/inst.svg');
 }
 
+.facebook {
+  background-image: url('../img/fb.svg');
+}
+
+.twitter {
+  background-image: url('../img/twitter.svg');
+}
+
 @media (max-width: 1680px) {
   .xl\:mb-4 {
     margin-bottom: 1rem;
